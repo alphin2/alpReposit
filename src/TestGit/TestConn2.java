@@ -6,9 +6,9 @@ public class TestConn2 {
 
 		String result = null;
 
-		result = result == null ? "." : result; // 수정
+		result = result == null ? "a" : result; // 수정
 
-		// TODO Auto-generated method stub
+		// flag 제거
 		System.out.println(result);
 	}
 
